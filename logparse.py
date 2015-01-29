@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# boonstra 2015, most platforms will require root access to logs
+# infragilis 2015, most platforms will require root access to logs
 import platform
 import sys
 import mmap

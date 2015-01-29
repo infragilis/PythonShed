@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# boonstra 2014
+# infragilis 2015
 import random
 
 

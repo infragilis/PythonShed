@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#infragilis 2015
 import os
 user_input = raw_input("IP or name please:  ")  
 print user_input

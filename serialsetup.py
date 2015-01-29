@@ -1,5 +1,5 @@
 #http://pyserial.sourceforge.net/shortintro.html
-
+#infragilis 2015
 import time
 import serial
 
