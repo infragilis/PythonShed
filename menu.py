@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# boonstra 2015
+# infragilis 2015
       
 def print_menu():       ## Your menu design here
     print 30 * "-" , "MENU" , 30 * "-"
