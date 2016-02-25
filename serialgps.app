@@ -4,7 +4,6 @@ import pynmea2
 import datetime
 
 serialStream = serial.Serial("/dev/ttyAMA0", 9600, timeout=0.5)
-now = datetime.datetime.now()
 
 while True:
     sentence = serialStream.readline()
